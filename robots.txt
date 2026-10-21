@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riyad-marrakech-osimo.brack04nc.chatgpt.site/sitemap.xml
